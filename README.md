@@ -25,7 +25,7 @@
 
 <div align="center">
   <img 
-    src="https://aurmaus.com/Img/Aurmaus%20Development%20Intro123.gif"
+    src="Aurmaus Development Intro123.gif"
     width="100%"
     alt="Aurmaus Development"
   />
