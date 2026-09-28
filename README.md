@@ -7,12 +7,6 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,aws" height="60" />
-</div>
-
----
-
-<div align="center">
   <a href="https://x.com/Aurmaus">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" />
   </a>
