@@ -10,9 +10,6 @@
   <a href="https://x.com/Aurmaus">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://discord.com/invite/A8zDbEYsbv">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" />
-  </a>
 </div>
 
 ---
