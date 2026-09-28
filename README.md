@@ -1,7 +1,7 @@
-<h1 align="center">Hey Whats Up</h1>
+<h1 align="center">Aurmaus</h1>
 
 <p align="center">
-  Full-stack • Systems • Backend-heavy
+  Full stack • Backend heavy
 </p>
 
 ---
